@@ -66,8 +66,6 @@ public class Employee {
                 "firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 '}';
-
-
     }
 }
 
